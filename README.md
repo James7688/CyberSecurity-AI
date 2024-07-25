@@ -34,3 +34,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install pandas matplotlib scikit-learn joblib
+```
+
+## CREDIT:
+Quy Anh Nguyen - Developer
